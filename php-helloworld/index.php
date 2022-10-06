@@ -1,5 +1,6 @@
 <?php
 print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "A change is a coming ! Ac \n";
+print "A change is a coming AC!\n";
+print "A change is in the air   AC!"; 
 
 ?>
